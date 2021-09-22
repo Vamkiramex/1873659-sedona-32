@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Филипп Туктаров](https://up.htmlacademy.ru/htmlcss/32/user/1873659).
-* Наставник: `Макс Корелин`.
+* Наставник: `Макс Корелин https://htmlacademy.ru/profile/maxzbest`.
 
 ---
 
